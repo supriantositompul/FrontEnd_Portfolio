@@ -1,3 +1,4 @@
 # Demo_UI_Portfolio
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/71377466/175271265-8e818079-3018-4269-a39a-a0448b23adfb.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/71377466/175275652-3b5a5800-4496-4a2b-a9ad-679e9b7a7885.gif)
+
